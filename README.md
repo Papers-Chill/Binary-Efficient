@@ -94,16 +94,6 @@ abstract:
 
 ---
 
-##### Deep Learning Based on Fourier Convolutional Neural Network Incorporating Random Kernels
-###### Year: 2020
-citations: 9 <br>
-conference: Journal MDPI <br>
-paper:https://www.mdpi.com/2079-9292/10/16/2004/htm <br>
-abstract: 
-
----
-
-
 ##### Hybrid Domain Convolutional Neural Network for Memory Efficient Training
 ###### Year: 2021
 citations: 9 <br>
@@ -122,8 +112,6 @@ paper:[https://link.springer.com/content/pdf/10.1007/978-3-030-93046-2.pdf](http
 abstract:
 
 
-
-Parametric Spectral Filters for Fast Converging, Scalable Convolutional Neural Networks
 
 
 
