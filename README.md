@@ -24,3 +24,11 @@ paper: https://openaccess.thecvf.com/content_CVPRW_2020/papers/w40/Pouransari_Le
 abstract: Оптимизация заумная хрен пойми в чем заключается. Качество стремное.
 
 ---
+
+AdaBin: Improving Binary Neural Networks with adaptive Binary Sets
+
+
+
+---
+
+INSTA-BNN: Binary Neural Network with INSTAnce-aware Threshold
