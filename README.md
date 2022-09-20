@@ -64,4 +64,11 @@ abstract: Какая-то хреновина. Уменьшают память н
 
 ---
 
+##### Latent Weights Do Not Exist: Rethinking Binarized Neural Network Optimization
+###### Year: 2019
+citations: 73 <br>
+conference: NeurlPS <br>
+paper: https://proceedings.neurips.cc/paper/2019/file/9ca8c9b0996bbf05ae7753d34667a6fd-Paper.pdf <br>
+abstract: Говорят что фп веса под бинарными играют только роль инерции. Согласен. Может быть очень полезно адаптировать эти идеи чтобы улучшить в общем обучниея.
 
+---
