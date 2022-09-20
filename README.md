@@ -55,20 +55,28 @@ abstract: First, we train strong baseline binary networks with a wide range of r
 
 ---
 
-##### SpecNet: Spectral Domain Convolutional Neural Network
-###### Year: 2019
-citations: 10 <br>
-conference: None <br>
-paper: https://arxiv.org/pdf/1905.10915.pdf <br>
-abstract: Какая-то хреновина. Уменьшают память на фичимапах.
-
----
-
 ##### Latent Weights Do Not Exist: Rethinking Binarized Neural Network Optimization
 ###### Year: 2019
 citations: 73 <br>
 conference: NeurlPS <br>
 paper: https://proceedings.neurips.cc/paper/2019/file/9ca8c9b0996bbf05ae7753d34667a6fd-Paper.pdf <br>
 abstract: Говорят что фп веса под бинарными играют только роль инерции. Согласен. Может быть очень полезно адаптировать эти идеи чтобы улучшить в общем обучниея.
+
+---
+##### Learning in the Frequency Domain
+###### Year: 2020
+citations: 118 <br>
+conference: CVPR <br>
+paper: https://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_Learning_in_the_Frequency_Domain_CVPR_2020_paper.pdf
+code: https://github.com/calmevtime/DCTNet
+
+---
+
+##### SpecNet: Spectral Domain Convolutional Neural Network
+###### Year: 2019
+citations: 10 <br>
+conference: None <br>
+paper: https://arxiv.org/pdf/1905.10915.pdf <br>
+abstract: Какая-то хреновина. Уменьшают память на фичимапах.
 
 ---
