@@ -62,6 +62,10 @@ conference: NeurlPS <br>
 paper: https://proceedings.neurips.cc/paper/2019/file/9ca8c9b0996bbf05ae7753d34667a6fd-Paper.pdf <br>
 abstract: Говорят что фп веса под бинарными играют только роль инерции. Согласен. Может быть очень полезно адаптировать эти идеи чтобы улучшить в общем обучниея.
 
+
+
+## Spectral section
+
 ---
 ##### Learning in the Frequency Domain
 ###### Year: 2020
@@ -77,6 +81,49 @@ code: https://github.com/calmevtime/DCTNet
 citations: 10 <br>
 conference: None <br>
 paper: https://arxiv.org/pdf/1905.10915.pdf <br>
-abstract: Какая-то хреновина. Уменьшают память на фичимапах.
+abstract:
 
 ---
+
+##### Deep Learning Based on Fourier Convolutional Neural Network Incorporating Random Kernels
+###### Year: 2020
+citations: 9 <br>
+conference: Journal MDPI <br>
+paper:https://www.mdpi.com/2079-9292/10/16/2004/htm <br>
+abstract: 
+
+---
+
+##### Deep Learning Based on Fourier Convolutional Neural Network Incorporating Random Kernels
+###### Year: 2020
+citations: 9 <br>
+conference: Journal MDPI <br>
+paper:https://www.mdpi.com/2079-9292/10/16/2004/htm <br>
+abstract: 
+
+---
+
+
+##### Hybrid Domain Convolutional Neural Network for Memory Efficient Training
+###### Year: 2021
+citations: 9 <br>
+conference: CAAI <br>
+paper:https://link.springer.com/content/pdf/10.1007/978-3-030-93046-2.pdf <br>
+abstract:
+
+
+---
+
+##### Parametric Spectral Filters for Fast Converging, Scalable Convolutional Neural Networks
+###### Year: 2021
+citations: 0 <br>
+conference: preprint <br>
+paper:[https://link.springer.com/content/pdf/10.1007/978-3-030-93046-2.pdf](https://ieeexplore.ieee.org/abstract/document/9414587?casa_token=NBgPEwu4MsIAAAAA:gz3qIGYEpv7p8M827wpXbzuzzVMtmo_VmPnkTvBSEABiY31pt44xlGtKljp0-8sKFxOX117fDAEfjQ) <br>
+abstract:
+
+
+
+Parametric Spectral Filters for Fast Converging, Scalable Convolutional Neural Networks
+
+
+
