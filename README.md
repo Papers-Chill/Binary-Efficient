@@ -54,14 +54,7 @@ paper: https://openaccess.thecvf.com/content_CVPR_2020/papers/Phan_Binarizing_Mo
 abstract: First, we train strong baseline binary networks with a wide range of random group combinations at each convolutional layer. Чето там эволюция, группы подбирабют на каждом слое. Качество маленькое однако сильно. 
 
 ---
-##### ShiftAddNet: A Hardware-Inspired Deep Network
-###### Year: 2020
-citations: 34 <br>
-conference: NeurlPS <br>
-paper: https://proceedings.neurips.cc/paper/2020/file/1cf44d7975e6c86cffa70cae95b5fbb2-Paper.pdf <br>
-abstract: Multiplication can be instead performed with additions and logical bit-shifts. Идея классная, но не соотносится с кантизацией или бинаризацией. Нельзя взять как "вспомогательную", и каку основную тоже странно будет.
 
----
 ##### SpecNet: Spectral Domain Convolutional Neural Network
 ###### Year: 2019
 citations: 10 <br>
