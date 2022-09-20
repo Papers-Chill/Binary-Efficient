@@ -62,12 +62,13 @@ paper: https://proceedings.neurips.cc/paper/2020/file/1cf44d7975e6c86cffa70cae95
 abstract: Multiplication can be instead performed with additions and logical bit-shifts. Идея классная, но не соотносится с кантизацией или бинаризацией. Нельзя взять как "вспомогательную", и каку основную тоже странно будет.
 
 ---
-##### Least squares binary quantization of neural networks
-###### Year: 2020
-citations: 22 \
-conference: CVPR \
-paper: https://openaccess.thecvf.com/content_CVPRW_2020/papers/w40/Pouransari_Least_Squares_Binary_Quantization_of_Neural_Networks_CVPRW_2020_paper.pdf \
-abstract: Оптимизация заумная хрен пойми в чем заключается. Качество стремное.
+##### SpecNet: Spectral Domain Convolutional Neural Network
+###### Year: 2019
+citations: 10
+conference: None
+paper: https://arxiv.org/pdf/1905.10915.pdf
+abstract: Какая-то хреновина. Уменьшают память на фичимапах.
 
 ---
+
 
