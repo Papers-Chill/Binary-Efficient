@@ -63,6 +63,17 @@ paper: https://proceedings.neurips.cc/paper/2019/file/9ca8c9b0996bbf05ae7753d346
 abstract: Говорят что фп веса под бинарными играют только роль инерции. Согласен. Может быть очень полезно адаптировать эти идеи чтобы улучшить в общем обучниея.
 
 
+---
+##### AsymmNet: Towards ultralight convolution neural networks using asymmetrical bottlenecks
+###### Year: 2021
+citations: 5 <br>
+conference: CVPR <br>
+paper: [ttps://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_Learning_in_the_Frequency_Domain_CVPR_2020_paper.pdf](https://openaccess.thecvf.com/content/CVPR2021W/MAI/papers/Yang_AsymmNet_Towards_Ultralight_Convolution_Neural_Networks_Using_Asymmetrical_Bottlenecks_CVPRW_2021_paper.pdf)
+code: [https://github.com/calmevtime/DCTNet](https://github.com/Spark001/AsymmNet)
+review: resue old features, it helps to keep the signal  going. 
+
+---
+
 
 ## Spectral section
 
