@@ -79,12 +79,15 @@ review: resue old features, it helps to keep the signal  going.
 ## Spectral section
 
 ---
+
+##### CAN TRY:
 ##### Learning in the Frequency Domain
 ###### Year: 2020
 citations: 118 <br>
 conference: CVPR <br>
 paper: https://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_Learning_in_the_Frequency_Domain_CVPR_2020_paper.pdf
 code: https://github.com/calmevtime/DCTNet
+review: Transform images DCT (discrete cosine transform) use it to train models.
 
 ---
 
