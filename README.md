@@ -127,6 +127,9 @@ paper:[https://link.springer.com/content/pdf/10.1007/978-3-030-93046-2.pdf](http
 abstract:
 
 
-
+#### Beyond Filters: Compact Feature Map for Portable Deep Mode
+##### Year: 2017
+citations: 57 <br>
+paper: https://proceedings.mlr.press/v70/wang17m.html <br>
 
 
